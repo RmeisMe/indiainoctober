@@ -284,7 +284,7 @@ export const presentationSlides: SlideData[] = [
     id: 'slide-question-3',
     type: 'question',
     theme: 'red',
-    question: 'In your opinion, can these organisations be trusted for securing our democratic rights?',
+    question: 'In your opinion, can these organisations be trusted for "securing" our democratic rights?',
   },
 
   // --- FOURTH QUESTION SLIDE ---
