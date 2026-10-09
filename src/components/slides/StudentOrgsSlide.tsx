@@ -27,8 +27,8 @@ export const StudentOrgsSlide: React.FC<StudentOrgsSlideProps> = ({ data }) => {
           <span>{data.subtitle}</span>
         </div>
 
-        {/* Lead text */}
-        <p className="text-sm sm:text-base md:text-lg text-zinc-200 tracking-wide font-normal max-w-4xl">
+        {/* Lead text in presentation font (Anton, uppercase) */}
+        <p className="font-heading text-base sm:text-lg md:text-xl lg:text-2xl text-zinc-200 uppercase tracking-wider max-w-5xl">
           {data.leadText}
         </p>
       </motion.div>
