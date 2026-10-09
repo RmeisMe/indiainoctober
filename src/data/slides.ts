@@ -181,7 +181,7 @@ export const presentationSlides: SlideData[] = [
     reasons: [
       {
         heading: 'LAW & ORDER CONCERNS',
-        text: 'Delhi Police imposed Section 163 of the BNSS citing law and order concerns. Primarily, the police noted that protesters were attempting to assemble in massive numbers with dubious intentions.',
+        text: 'Delhi Police imposed Section 163 of the BNSS citing law and order concerns. Section 163 of the BNSS (equivalent to erstwhile Section 144 CrPC) empowers authorities to prohibit the assembly of 5 or more persons, unauthorized gatherings, or carrying of weapons to prevent danger to human life, public nuisance, and breach of peace. Primarily, the police noted that protesters were attempting to assemble in massive numbers with dubious intentions.',
       },
       {
         heading: 'DOCUMENTED PRIOR UNREST',
