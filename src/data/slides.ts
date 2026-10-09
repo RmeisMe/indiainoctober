@@ -248,8 +248,8 @@ export const presentationSlides: SlideData[] = [
     type: 'student-orgs',
     theme: 'black',
     title: 'EXPOSING THE SO-CALLED STUDENT-LED ORGANISATIONS',
-    subtitle: 'AISA, AISF and SFI',
-    leadText: 'Here is the reality of these student organisations:',
+    subtitle: 'AISA, AISF, SFI, bsCEM, and others',
+    leadText: 'Here is the reality of the student organisations which are leading the protest:',
     items: [
       {
         number: '01',
